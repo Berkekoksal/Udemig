@@ -7,7 +7,7 @@ In this project, a simple copy of the Netflix site was made using HTML and CSS.
 
 HTML and CSS
 
-<h2>Scree Gif</h2>
+<h2>Screen Gif</h2>
 
 ![](Netflix-Clone-Screen.gif)
 
